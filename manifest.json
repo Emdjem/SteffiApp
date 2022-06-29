@@ -1,0 +1,10 @@
+{
+    "name": "To Do List",
+    "short_name": "To Do List",
+    "theme_color": "#d6dce5",
+    "background_color": "#d6dce5",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
